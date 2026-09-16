@@ -1,7 +1,8 @@
 ---
 name: 1c-code-reviewer
 description: "Этот агент следует использовать, когда нужно проверить код 1C на баги, читаемость, соответствие стандартам и правилам из 1c-rules.md. Используй проактивно после написания или изменения кода."
-model: sonnet
+model: gpt-5.6-sol
+reasoning_effort: high
 color: orange
 ---
 
